@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Ebene_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 960 560" style="enable-background:new 0 0 960 560;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FFFFFF;stroke:#000000;stroke-miterlimit:10;}
+	.st1{fill:none;stroke:#000000;stroke-miterlimit:10;}
+	.st2{stroke:#000000;stroke-miterlimit:10;}
+	.st3{font-family:'MyriadPro-Regular';}
+	.st4{font-size:20.3902px;}
+	.st5{font-size:26px;}
+	.st6{font-size:19.4412px;}
+	.st7{font-size:23.8075px;}
+	.st8{font-size:13px;}
+	.st9{font-size:15.5007px;}
+</style>
+<rect id="XMLID_1_" x="45.3" y="319.6" class="st0" width="202.5" height="115.8"/>
+<rect id="XMLID_3_" x="277.4" y="319.2" class="st0" width="202.5" height="115.8"/>
+<rect id="XMLID_6_" x="511.6" y="319.2" class="st0" width="202.5" height="115.8"/>
+<rect id="XMLID_8_" x="280.7" y="149.4" class="st0" width="202.5" height="115.8"/>
+<line id="XMLID_9_" class="st1" x1="247.5" y1="377.5" x2="277.3" y2="377.5"/>
+<line id="XMLID_10_" class="st1" x1="479.6" y1="377.5" x2="511.7" y2="377.5"/>
+<path id="XMLID_13_" class="st2" d="M262.5,374.5l6,3.5l-6,3.5l-6,3.5c0,0,0-6.6,0-6.9s0-6.9,0-6.9L262.5,374.5z"/>
+<path id="XMLID_14_" class="st2" d="M498.6,373.7l6,3.5l-6,3.5l-6,3.5c0,0,0-6.6,0-6.9s0-6.9,0-6.9L498.6,373.7z"/>
+<g id="XMLID_17_">
+</g>
+<g id="XMLID_69_">
+</g>
+<g id="XMLID_70_">
+</g>
+<g id="XMLID_71_">
+</g>
+<g id="XMLID_72_">
+</g>
+<g id="XMLID_73_">
+</g>
+<g id="XMLID_74_">
+</g>
+<g id="XMLID_75_">
+</g>
+<g id="XMLID_76_">
+</g>
+<g id="XMLID_77_">
+</g>
+<g id="XMLID_78_">
+</g>
+<g id="XMLID_79_">
+</g>
+<g id="XMLID_80_">
+</g>
+<g id="XMLID_81_">
+</g>
+<g id="XMLID_82_">
+</g>
+<rect id="XMLID_19_" x="511.4" y="149.4" class="st1" width="202.5" height="115.8"/>
+<line id="XMLID_15_" class="st1" x1="613.5" y1="319.6" x2="613.5" y2="265.3"/>
+<path id="XMLID_11_" class="st2" d="M610,290.8l3.5-6l3.5,6l3.5,6c0,0-6.6,0-6.9,0c-0.3,0-6.9,0-6.9,0L610,290.8z"/>
+<line id="XMLID_16_" class="st1" x1="378.7" y1="265.3" x2="378.7" y2="319.6"/>
+<path id="XMLID_12_" class="st2" d="M382.1,294.1l-3.5,6l-3.5-6l-3.5-6c0,0,6.6,0,6.9,0s6.9,0,6.9,0L382.1,294.1z"/>
+<line id="XMLID_22_" class="st1" x1="511.4" y1="211.9" x2="482.5" y2="211.9"/>
+<path id="XMLID_21_" class="st2" d="M495.7,215.6l-6-3.5l6-3.5l6-3.5c0,0,0,6.6,0,6.9c0,0.3,0,6.9,0,6.9L495.7,215.6z"/>
+<text transform="matrix(1 0 0 1 62.3751 384.8682)" class="st3 st4">Inputvektor (Bild)</text>
+<rect id="XMLID_5_" x="746.3" y="319.2" class="st0" width="202.5" height="115.8"/>
+<line id="XMLID_4_" class="st1" x1="716.4" y1="377.5" x2="746.2" y2="377.5"/>
+<path id="XMLID_2_" class="st2" d="M731.4,374.5l6,3.5l-6,3.5l-6,3.5c0,0,0-6.6,0-6.9s0-6.9,0-6.9L731.4,374.5z"/>
+<text transform="matrix(1 0 0 1 298.6667 384.8686)" class="st3 st5">Variablen (w/θ)</text>
+<text transform="matrix(1 0 0 1 515.0307 370.281)"><tspan x="0" y="0" class="st3 st6">Vorhersage anhand </tspan><tspan x="0" y="23.3" class="st3 st6">von Input und Variablen</tspan></text>
+<text transform="matrix(1 0 0 1 755.6664 384.8685)" class="st3 st5">Output (0 oder 1)</text>
+<text transform="matrix(1 0 0 1 535.3332 205.277)" class="st3 st7">Kostenfunktion</text>
+<text transform="matrix(1 0 0 1 524.6667 236)"><tspan x="0" y="0" class="st3 st8">wie falsch ist die Vorhersage ?</tspan><tspan x="0" y="15.6" class="st3 st8">(Vergleich mit richtigem Ergebnis)</tspan></text>
+<text transform="matrix(1 0 0 1 283.9994 200.76)"><tspan x="0" y="0" class="st3 st9">Update der Variablen </tspan><tspan x="0" y="18.6" class="st3 st9">damit Kosten geringer werden</tspan></text>
+</svg>
